@@ -61,10 +61,7 @@ Metrik evaluasi yang digunakan:
 
 ## 📁 Struktur Proyek
 ```
-├── notebooks/
-│   └──  # Saved model
-├── paper/
-│   └── paper.pdf             # Makalah kompetisi
+├── DataDrillers.ipynb
 └── README.md
 ```
 
